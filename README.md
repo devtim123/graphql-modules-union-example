@@ -9,7 +9,7 @@ cd graphql-modules-union-example
 yarn install
 yarn dev
 ```
-and visit http://localhost:4000
+and visit http://localhost:4000/api
 
 start query at playground:
 ```
